@@ -11,3 +11,4 @@ Delete the directory my_first_directory that is in the /tmp directory
 A script that changes the working directory to the previous one
 A script that lists all files in the current directory and the parent of the working directory and the /boot directory in long format
 A script that prints the type of the file named
+Create a symbolic link to /bin/ls, named __ls__
