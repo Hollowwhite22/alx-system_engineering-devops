@@ -10,3 +10,4 @@ A script that sets the owner and group owner to no permission at all, while othe
 A script that sets the mode of the file
  A script that sets the mode of the file hello the same as olleh’s mode
 A script that creates a directory called my_dir with permissions 751 in the working directory
+A script that changes the group owner to school for the file hello
